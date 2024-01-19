@@ -5,7 +5,7 @@
   
   Repository readme generator is a tool that allows you to create simple and beautiful readme for your repository that you can copy or paste or download. Made with Vue.js.
   
-  Author: KasRoudra
+  Author: iamaloksy
   Messenger: https://www.linkedin/in/iamaloksy
   Email: kr.alok.sy@gmail.com
   Date: 18-01-2024
